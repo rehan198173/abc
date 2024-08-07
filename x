@@ -1,1 +1,2 @@
-GitHub is version control system
+GitHub is version control system.
+And is a collaborative workspace.
